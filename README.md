@@ -16,7 +16,7 @@ Data visualization (charts and graphs)
 Purpose:
 The analysis helps hotel management understand cancellation patterns and provides strategies to reduce cancellation rates, ultimately improving overall booking performance.
 
-[image alt](https://github.com/huzaifa-khanam/Hotel-Booking-and-Cancellation-data-analysis/blob/main/Screenshot%20(250).png?raw=true)
+![image alt](https://github.com/huzaifa-khanam/Hotel-Booking-and-Cancellation-data-analysis/blob/main/Screenshot%20(250).png?raw=true)
 
 
 
